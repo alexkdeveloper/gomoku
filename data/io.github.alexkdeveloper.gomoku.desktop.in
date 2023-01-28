@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Gomoku
+Comment=Simple Gomoku game
+Exec=io.github.alexkdeveloper.gomoku %U
+Icon=io.github.alexkdeveloper.gomoku
+Terminal=false
+Categories=Game;GNOME;GTK;
+Keywords=Game;Gomoku;
