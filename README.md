@@ -1,6 +1,6 @@
 # Gomoku
 
-Simple gomoku game
+A simple gomoku game
 
 ![screenshot.png](/data/screenshot.png)
 
