@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Gomoku
-Comment=Simple Gomoku game
+Comment=Gomoku game
 Exec=io.github.alexkdeveloper.gomoku %U
 Icon=io.github.alexkdeveloper.gomoku
 Terminal=false
