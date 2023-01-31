@@ -5,7 +5,7 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0+</project_license>
   <name>Gomoku</name>
-  <summary>A simple gomoku game</summary>
+  <summary>Gomoku game</summary>
   <provides>
     <binary>io.github.alexkdeveloper.gomoku</binary>
   </provides>
@@ -19,7 +19,7 @@
     </screenshot>
   </screenshots>
   <description>
-    <p>You need to line up your five chips in a row horizontally, vertically or diagonally and do it faster than your opponent.</p>
+    <p>You need to line up your five stones in a row horizontally, vertically or diagonally and do it faster than your opponent.</p>
   </description>
   <categories>
     <category>GTK</category>
