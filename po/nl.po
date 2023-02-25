@@ -1,0 +1,62 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the io.github.alexkdeveloper.gomoku package.
+#
+# Heimen Stoffels <vistausss@fastmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: io.github.alexkdeveloper.gomoku\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-25 13:35+0100\n"
+"PO-Revision-Date: 2023-02-25 13:36+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: Dutch\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 22.12.2\n"
+
+#: src/Main.vala:24
+msgid "Quit"
+msgstr "Afsluiten"
+
+#: src/Main.vala:25
+msgid ""
+"Quit the game?\n"
+"The unfinished game will be reset."
+msgstr ""
+"Weet u zeker dat u wilt afsluiten?"
+"Het huidige spel wordt hierdoor afgebroken."
+
+#: src/Main.vala:35
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: src/Main.vala:49
+msgid "The game is over"
+msgstr "Het spel is voorbij"
+
+#: src/Main.vala:65
+msgid "Black"
+msgstr "Zwart"
+
+#: src/Main.vala:66
+msgid "White"
+msgstr "Wit"
+
+#: src/Main.vala:70
+msgid "New Game"
+msgstr "Nieuw spel"
+
+#: src/Game.vala:54
+msgid "YOU WON!"
+msgstr "U HEEFT GEWONNEN!"
+
+#: src/Game.vala:58 src/Game.vala:71
+msgid "DRAW!"
+msgstr "GELIJKSPEL!"
+
+#: src/Game.vala:67
+msgid "YOU LOSE!"
+msgstr "U HEEFT VERLOREN!"
